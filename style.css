@@ -1,0 +1,75 @@
+  .body {
+    background-color: forestgreen;
+  }
+  
+  .menuDropDown{
+    margin-top: 50;
+    margin-left: 30;
+  }
+
+  .dropbtn {
+    background-color: transparent;
+    border: none;
+  }
+
+  .conteudoDropdown {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: forestgreen;
+    width: 180px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+
+  .textnav {
+    background-color: #fff000;
+    color: #007FFF;
+    border-radius: 300px;
+    
+  }
+
+  .banner {
+    height: 140px;
+    width: 100%;
+    margin: 0;
+    grid-template-columns: 47% 1fr 30px;
+    text-align: center;
+    margin-top: -11px;
+  }
+
+.logo{
+  margin-top: -175px;
+  margin-left: 45%;
+}
+
+  .div {
+    margin: 0;
+  }
+
+  .tableResponsive {
+    background-color: #1264b6;
+    text-align: center;
+    color: white;
+  }
+  .tbody{
+    color: rgb(255, 255, 255);
+  }
+
+  .pais {
+    text-align: left;
+  }
+
+  .h1 {
+    font-weight: 1;
+  }
+
+  .titleElim {
+    text-align: center;
+  }
+
+  .oitavas {
+    list-style: none;
+  }
+
+ 
